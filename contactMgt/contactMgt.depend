@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663772092 source:c:\users\samson\documents\c projects\contactmgt\main.c
+	<stdio.h>
+	<stdlib.h>
+
